@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/triskele/Desktop/rust_projects/nft-fsm-contract/target/debug/build/typenum-48a9b44538c7f22b/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/triskele/Desktop/rust_projects/nft-fsm-contract/target/debug/build/typenum-48a9b44538c7f22b/out/op.rs
